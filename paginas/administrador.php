@@ -28,6 +28,7 @@
     <ul class="nav">
         <li><a href="administrador.php?pag=a_s">Alta socio</a></li>
         <li><a href="administrador.php?pag=b_s">Baja socio</a></li>
+        <li><a href="administrador.php?pag=b_s">Baja socio</a></li>
         <li><a href="../_php/desloguearse.php">Cerrar session</a></li>
         <li><a href="#">Vínculo cuatro</a></li>
     </ul>
